@@ -7,7 +7,7 @@
 ### 🌟 About Me
 
 - 🎓 Master’s in Data Science (STEM) @ University of Maryland Baltimore County (UMBC) | GPA: 3.94/4.0  
-- 💻 Former ETL Developer @ Happiest Minds Technologies (Client: TeamLease Services Ltd.)  
+- 💻 Former ETL Developer @ TeamLease Services Ltd (Client: Happiest Minds Technologies.)  
 - 🩻 Passionate about building AI-powered healthcare tools and intelligent data pipelines  
 - 🚀 Exploring Computer Vision, NLP, Data Engineering, MLOps, and Cloud technologies  
 - 📫 Contact: sugayathri2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)
@@ -20,8 +20,6 @@
   Built an end-to-end deep learning pipeline for thoracic disease classification from chest X-rays. Achieved 0.83 AUROC on an ensemble model across 7 disease classes. Integrated T5-based radiology report generation and Grad-CAM visualization.  
   👉 Deployed as Gradio app: [AI Radiology App](https://huggingface.co/spaces/Sugayathri/ai_radiology)
 
-- 🌐 [**Portfolio Website**](https://github.com/sugayathriponnada/portfolio)  
-  Personal portfolio website to showcase projects, blogs, and professional experience.
 
 - 📈 **Global Market Clustering & Risk Simulation**  
   Built distributed data pipelines using PySpark; developed scalable clustering (K-Means, PCA) and simulation modules for financial market regimes. Visualized insights using Tableau.
