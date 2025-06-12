@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Sugayathri Devi Ponnada
+## 👋 Hi, I'm Sugayathri Devi Ponnada
 
-**Data Scientist | AI & Deep Learning Enthusiast | NLP & Computer Vision | AWS | ETL | UMBC MS Data Science 2025**
+**Data Scientist | AI & Deep Learning Enthusiast | Software Engineer | AWS | ETL | MLOps | UMBC MS Data Science (STEM) 2025**
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 Master’s in Data Science (STEM) @ University of Maryland Baltimore County (UMBC) | GPA: 3.94/4.0  
-- 💻 Former ETL Developer @ TeamLease Services Ltd (Client: Happiest Minds Technologies.)  
-- 🩻 Passionate about building AI-powered healthcare tools and intelligent data pipelines  
-- 🚀 Exploring Computer Vision, NLP, Data Engineering, MLOps, and Cloud technologies  
-- 📫 Contact: sugayathri2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)
-
+🎓 Master’s in Data Science (**STEM**) @ University of Maryland Baltimore County (UMBC) | GPA: **3.94/4.0**  
+💼 Former **ETL Developer** @ TeamLease Services Ltd (Client: Happiest Minds Technologies)  
+💻 Passionate about building **AI-powered healthcare tools** and **scalable data systems**  
+🚀 Exploring **Computer Vision**, **NLP**, **Software Engineering**, **Data Engineering**, **MLOps**, and **Cloud technologies**  
+📫 Reach me: [Email](mailto:sugayathri2000@gmail.com) | [LinkedIn](https://linkedin.com/in/sugayathri-devi-ponnada) | [GitHub](https://github.com/sugayathriponnada)
 ---
 
 ### 🚀 Featured Projects
