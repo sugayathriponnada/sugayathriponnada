@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Sugayathri Devi Ponnada
 
-<!--
-**sugayathriponnada/sugayathriponnada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | AI & Deep Learning Enthusiast | NLP & Computer Vision | AWS | ETL | UMBC MS Data Science 2025**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 🎓 Master’s in Data Science (STEM) @ University of Maryland Baltimore County (UMBC) | GPA: 3.94/4.0  
+- 💻 Former ETL Developer @ Happiest Minds Technologies (Client: TeamLease Services Ltd.)  
+- 🩻 Passionate about building AI-powered healthcare tools and intelligent data pipelines  
+- 🚀 Exploring Computer Vision, NLP, Data Engineering, MLOps, and Cloud technologies  
+- 📫 Contact: sugayathri2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)
+
+---
+
+### 🚀 Featured Projects
+
+- 🩻 [**AI Radiology Report Generation**](https://github.com/Sugayathri/DS606_TeamF_Ponnada_Annreddy_Bode_AI-RADIOLOGY_P3Final)  
+  Built an end-to-end deep learning pipeline for thoracic disease classification from chest X-rays. Achieved 0.83 AUROC on an ensemble model across 7 disease classes. Integrated T5-based radiology report generation and Grad-CAM visualization.  
+  👉 Deployed as Gradio app: [AI Radiology App](https://huggingface.co/spaces/Sugayathri/ai_radiology)
+
+- 🌐 [**Portfolio Website**](https://github.com/sugayathriponnada/portfolio)  
+  Personal portfolio website to showcase projects, blogs, and professional experience.
+
+- 📈 **Global Market Clustering & Risk Simulation**  
+  Built distributed data pipelines using PySpark; developed scalable clustering (K-Means, PCA) and simulation modules for financial market regimes. Visualized insights using Tableau.
+
+- 🎵 **MelodyLens: Music Genre Classification**  
+  Designed and trained CNN classifier on GTZAN dataset using Mel-spectrograms; optimized model with feature engineering and architecture tuning.
+
+- ✨ **StoryWeaver AI**  
+  Developed an NLP software pipeline for emotion-aware story generation using Hugging Face Transformers and modular rule-based components.
+
+- 📰 **News Analytics for Market Trends**  
+  Engineered scalable sentiment prediction pipeline using PySpark + AWS; visualized trends with Tableau.
+
+- 🎬 **Box Office Predictor**  
+  Built scalable sentiment analysis models on movie reviews to predict box office success.
+
+- 🏢 **Resignation Prediction**  
+  Developed ML models to predict employee attrition and analyze key retention factors.
+
+- 🥗 **Healthy Food Ordering Platform**  
+  Full-stack web application (Django, MySQL, Bootstrap); implemented REST APIs and responsive UI.
+
+---
+
+### 🛠️ Skills
+
+**Programming:** Python, Java, SQL, R, C/C++, HTML, CSS, JavaScript  
+**Cloud/DevOps:** AWS (S3, Lambda, Redshift, Step Functions), Azure, GCP, Docker, Kubernetes, Jenkins, Git, Talend  
+**Databases:** MySQL, PostgreSQL, Oracle, AWS Redshift, MongoDB, DynamoDB  
+**ML/Data Science:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, Pandas, NumPy, Matplotlib, Seaborn, PySpark, XGBoost, Gradio, Tableau  
+**Domain Expertise:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Engineering, ETL Development, MLOps  
+**Other:** Kafka, Selenium, Postman, Agile, Linux, Unix
+
+---
+
+### 📜 Certifications
+
+- Smart Coder in Data Structures and Algorithms (Smart Interviews)  
+- Machine Learning and Deep Learning Specialization (Coursera)
+
+---
+
+### 📊 GitHub Stats
+
+![Sugayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugayathriponnada&show_icons=true&theme=default)
+
+---
+
+### ✨ Let's connect!
+
+📫 [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)  
+📧 sugayathri2000@gmail.com
+
+---
+
