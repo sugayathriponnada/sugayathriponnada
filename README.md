@@ -62,12 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Sugayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugayathriponnada&show_icons=true&theme=default)
-
----
-
 ### ✨ Let's connect!
 
 📫 [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)  
