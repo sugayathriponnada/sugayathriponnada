@@ -63,7 +63,7 @@
 
 ### ✨ Let's connect!
 
-📫 [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada) | [Portfolio](https://github.com/sugayathriponnada/portfolio)  
+📫 [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [GitHub](https://github.com/sugayathriponnada)  
 📧 sugayathri2000@gmail.com
 
 ---
