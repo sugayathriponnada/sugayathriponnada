@@ -10,7 +10,7 @@
 - 🩻 Building AI-powered healthcare tools for automated radiology report generation  
 - 🤖 Passionate about Computer Vision, NLP, and AI for Healthcare  
 - 🛠️ Exploring deep learning, data engineering, and cloud deployment  
-- 📫 Contact: sugayathri2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/) | [Portfolio](https://github.com/sugayathriponnada/portfolio)
+- 📫 Contact: sugayathri2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/sugayathri-devi-ponnada/)
 ---
 
 ### 🚀 Featured Projects
